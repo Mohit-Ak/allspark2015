@@ -132,7 +132,7 @@ padding-left: 20px;
 }
 .ContactBG{
 	padding-top: 15px;
-    padding-left: 15px;
+    padding-left: 18px;
         height: 30%;
     background-color: #046D8B;
 }
@@ -148,7 +148,8 @@ padding-left: 20px;
 	text-align: center;
 }
 .guests{
-  margin-top: 10px;
+/*   margin-top: 10px; */
+	text-align: center;
 }
 .social {
 background: #f3f3f3;

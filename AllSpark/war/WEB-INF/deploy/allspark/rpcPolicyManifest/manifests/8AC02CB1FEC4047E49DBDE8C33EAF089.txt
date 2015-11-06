@@ -1,2 +1,0 @@
-serviceClass: com.sirius.allspark.client.GreetingService
-path: CD38FDD41DBFB9C78A5BAC06E5766DF5.gwt.rpc
