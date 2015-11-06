@@ -1,0 +1,3 @@
+# Module allspark2k15
+# RPC service class, partial path of RPC policy file
+com.sirius.allspark.client.GreetingService, CD38FDD41DBFB9C78A5BAC06E5766DF5.gwt.rpc
