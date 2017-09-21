@@ -1,0 +1,2 @@
+# allspark2015
+AllSpark presents an opportunity for consultants in various streams to learn about the latest innovations, best practices and technological revolution in the fields of Digital Experience, Mobility, Commerce, Quality Assurance, Big Data & Analytics and DevOps. Spanning over 2 days, 20 curated technical topics and over a dozen prototypes and exhibits, this is the celebration of Technology and Innovation by the Sirius Global team.
